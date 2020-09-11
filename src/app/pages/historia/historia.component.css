@@ -1,0 +1,36 @@
+
+.conten.dev{
+  display: flex;
+  align-content: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+p{
+  font-family: 'Raleway', sans-serif;
+   font-size: 12pt;
+}
+
+.flag{
+  display: flex;
+  max-width: 80rem;
+  justify-content: center;
+}
+
+.example-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30em;
+    font-family: 'Raleway', sans-serif;
+   font-size: 26pt;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+  }
+  a:hover{
+    letter-spacing: 3px;
+    transition: all 1s;
+  }

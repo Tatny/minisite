@@ -1,0 +1,12 @@
+.cardInicial{
+  display: flex;
+  justify-content: center;
+}
+.example-card {
+    max-width: 50rem;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Raleway', sans-serif;
+   font-size: 26pt;
+  
+  }

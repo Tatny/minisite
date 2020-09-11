@@ -1,0 +1,19 @@
+.flag{
+    max-width: 300px;
+}
+
+.turismo{
+    display: flex !important; 
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+.cuadro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button{
+    font-family: 'Raleway', sans-serif;
+}
